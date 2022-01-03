@@ -1,0 +1,3865 @@
+        /*==============1600==============*/
+        @media screen  and (max-width: 1600px) {
+            .header{
+                background: url('./Flario/img/header_photo.png') no-repeat center;
+                background-color: #0B0B0B ; 
+                width: 100%;
+                }
+
+                .nav{
+                    display: flex;
+                    justify-content: center;
+                    justify-content: space-between;
+                    padding-left: 45px;
+                    padding-top: 50px;
+                    padding-right: 30px;                                  
+                }
+
+                .cards-background{
+                    display: flex;
+                    justify-content: center;
+                    background: url('./Flario/logo/rectangle.png') no-repeat center;
+                    background: none;
+                    width: 100%;
+                    height: 100%;
+                }
+            
+                .brands-img{
+                    display: flex;
+                    flex-wrap: wrap;
+                    gap: 25px;
+                    width: 730px;
+                    height: 240px;
+                    padding-left: 112px;
+                    
+                }
+                .limba{
+                    width: 160px;
+                    height: 112px;
+                }
+                
+                .jins{
+                    width: 85px;
+                    height: 67px;
+                }
+                
+                .rclear{
+                    width: 250px;
+                    height: 63px;
+                }
+                
+                .bombini{
+                    width: 230px;
+                    height: 87px;
+                }
+                
+                .tashe{
+                    width: 150px;
+                    height: 86px;
+                }
+                .cards{
+                    display: flex;
+                    justify-content: center;
+                    flex-wrap: wrap;
+                    align-items: center;
+                    gap: 30px;     
+                }
+
+                .input-form{
+                    display: flex;
+                    
+                }
+                
+                .form{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    flex-direction: column;
+                    background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url('./Flario/img/bacground_media.png') no-repeat center;
+                    width: 1600px;
+                    height: 695px;
+                    position: relative;
+                }
+                    
+                .forms{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    flex-wrap: wrap;
+                    align-items: center;   
+                    gap: 20px;
+                    width: 770px;
+                }
+                
+                .form-text{
+                    font-family: 'Inria Serif', serif;
+                    font-size: 24px;
+                    text-transform: uppercase;
+                    color: #FFFFFF;
+                    position: relative;
+                    bottom: 100px;
+                    right: 455px;    
+                }
+                
+                .form-control{
+                    font-family: 'Inter', sans-serif;
+                    width: 374px;
+                    height: 58px;
+                    font-size: 20px;
+                    color: #AAAAAA;
+                    opacity: 0.5;
+                    
+                }
+                
+                .form-control-text{
+                    font-family: 'Inter', sans-serif;
+                    width: 770px;
+                    height: 165px;
+                    font-size: 20px;
+                    color: #AAAAAA;
+                    opacity: 0.5;
+                }
+                
+                .btn-success{
+                    font-family: 'Inter', sans-serif;
+                    width: 770px;
+                    height: 56px;
+                    font-size: 20px;
+                    color: #FFFEFE;
+                    background: #ED8235;
+                    border: none;
+                    border-radius: 10px;
+                }              
+                
+        }
+
+        /*==============1400==============*/
+        @media screen  and (max-width: 1400px) {
+            .header{
+                background: url('./Flario/img/header_photo.png') no-repeat center;
+                background-color: #0B0B0B ; 
+                width: 100%;
+                }
+                .nav{
+                    display: flex;
+                    justify-content: center;
+                    justify-content: space-between;
+                    padding-left: 45px;
+                    padding-top: 50px;
+                    padding-right: 30px;                   
+                }
+
+                .cards-background{
+                    display: flex;
+                    justify-content: center;
+                    background: url('./Flario/logo/rectangle.png') no-repeat center;
+                    background: none;
+                    width: 100%;
+                    height: 100%;
+                }
+            
+                .brands-img{
+                    display: flex;
+                    flex-wrap: wrap;
+                    gap: 25px;
+                    width: 730px;
+                    height: 240px;
+                    padding-left: 112px;
+                    
+                }
+                .limba{
+                    width: 160px;
+                    height: 112px;
+                }
+                
+                .jins{
+                    width: 85px;
+                    height: 67px;
+                }
+                
+                .rclear{
+                    width: 250px;
+                    height: 63px;
+                }
+                
+                .bombini{
+                    width: 230px;
+                    height: 87px;
+                }
+                
+                .tashe{
+                    width: 150px;
+                    height: 86px;
+                }
+                .cards{
+                    display: flex;
+                    justify-content: center;
+                    flex-wrap: wrap;
+                    align-items: center;
+                    gap: 30px;     
+                }
+
+                .input-form{
+                    display: flex;
+                    
+                }
+                
+                .form{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    flex-direction: column;
+                    background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url('./Flario/img/bacground_media.png') no-repeat center;
+                    width: 1400px;
+                    height: 695px;
+                    position: relative;
+                }
+                    
+                .forms{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    flex-wrap: wrap;
+                    align-items: center;   
+                    gap: 20px;
+                    width: 770px;
+                }
+                
+                .form-text{
+                    font-family: 'Inria Serif', serif;
+                    font-size: 24px;
+                    text-transform: uppercase;
+                    color: #FFFFFF;
+                    position: relative;
+                    bottom: 100px;
+                    right: 455px;    
+                }
+                
+                .form-control{
+                    font-family: 'Inter', sans-serif;
+                    width: 374px;
+                    height: 58px;
+                    font-size: 20px;
+                    color: #AAAAAA;
+                    opacity: 0.5;
+                    
+                }
+                
+                .form-control-text{
+                    font-family: 'Inter', sans-serif;
+                    width: 770px;
+                    height: 165px;
+                    font-size: 20px;
+                    color: #AAAAAA;
+                    opacity: 0.5;
+                }
+                
+                .btn-success{
+                    font-family: 'Inter', sans-serif;
+                    width: 770px;
+                    height: 56px;
+                    font-size: 20px;
+                    color: #FFFEFE;
+                    background: #ED8235;
+                    border: none;
+                    border-radius: 10px;
+                }          
+                
+        }
+            
+        /*==============1280==============*/
+
+        @media screen  and (max-width: 1280px) {
+            .header{
+                background: url('./Flario/img/header_photo.png') no-repeat center;
+                width: 100%;
+                }
+                .nav{
+                    display: flex;
+                    justify-content: center;
+                    justify-content: space-between;
+                    padding-left: 45px;
+                    padding-top: 50px;
+                    padding-right: 20px;          
+                }
+
+                .navigation{
+                    display: flex;
+                    flex-wrap: wrap;
+                    justify-content: center;
+                    padding-top: 40px; 
+                    padding-left: 80px;   
+                }
+            
+                .cards-background{
+                    display: flex;
+                    justify-content: center;
+                    background: url('./Flario/logo/rectangle.png') no-repeat center;
+                    background: none;
+                    width: 100%;
+                    height: 100%;
+                }
+            
+                .brands-img{
+                    display: flex;
+                    flex-wrap: wrap;
+                    gap: 25px;
+                    width: 730px;
+                    height: 240px;
+                    padding-left: 112px;          
+                }
+                
+                .limba{
+                    width: 160px;
+                    height: 112px;
+                }
+                
+                .jins{
+                    width: 85px;
+                    height: 67px;
+                }
+                
+                .rclear{
+                    width: 250px;
+                    height: 63px;
+                }
+                
+                .bombini{
+                    width: 230px;
+                    height: 87px;
+                }
+                
+                .tashe{
+                    width: 150px;
+                    height: 86px;
+                }
+
+                .cards{
+                    display: flex;
+                    justify-content: center;
+                    flex-wrap: wrap;
+                    align-items: center;
+                    gap: 30px;     
+                }
+   
+                .form{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    flex-direction: column;
+                    background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url('./Flario/img/bacground_media.png') no-repeat center;
+                    width: 1240px;
+                    height: 695px;
+                    position: relative;
+                }
+                    
+                .forms{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    flex-wrap: wrap;
+                    align-items: center;   
+                    gap: 20px;
+                    width: 770px;
+                }
+                
+                .form-text{
+                    font-family: 'Inria Serif', serif;
+                    font-size: 24px;
+                    text-transform: uppercase;
+                    color: #FFFFFF;
+                    position: relative;
+                    bottom: 100px;
+                    right: 455px;    
+                }
+                
+                .form-control{
+                    font-family: 'Inter', sans-serif;
+                    width: 374px;
+                    height: 58px;
+                    font-size: 20px;
+                    color: #AAAAAA;
+                    opacity: 0.5;              
+                }
+                
+                .form-control-text{
+                    font-family: 'Inter', sans-serif;
+                    width: 770px;
+                    height: 165px;
+                    font-size: 20px;
+                    color: #AAAAAA;
+                    opacity: 0.5;
+                }
+                
+                .btn-success{
+                    font-family: 'Inter', sans-serif;
+                    width: 770px;
+                    height: 56px;
+                    font-size: 20px;
+                    color: #FFFEFE;
+                    background: #ED8235;
+                    border: none;
+                    border-radius: 10px;
+                }
+                                        
+        }
+
+        /*==============1024==============*/
+
+        @media screen  and (max-width: 1024px) {
+            .header{
+                background: url('./Flario/img/header_photo.png') no-repeat center;
+                width: 100%;
+                }
+
+                .nav{
+                    display: flex;
+                    justify-content: center;
+                    justify-content: space-between;
+                    padding-left: 45px;
+                    padding-top: 50px;
+                    padding-right: 30px;           
+                }
+
+                .cards-background{
+                    display: flex;
+                    justify-content: center;
+                    background: url('./Flario/logo/rectangle.png') no-repeat center;
+                    background: none;
+                    width: 100%;
+                    height: 100%;
+                }
+            
+                .brands-img{
+                    display: flex;
+                    flex-wrap: wrap;
+                    gap: 25px;
+                    width: 730px;
+                    height: 240px;
+                    padding-left: 112px;           
+                }
+
+                .limba{
+                    width: 160px;
+                    height: 112px;
+                }
+                
+                .jins{
+                    width: 85px;
+                    height: 67px;
+                }
+                
+                .rclear{
+                    width: 250px;
+                    height: 63px;
+                }
+                
+                .bombini{
+                    width: 230px;
+                    height: 87px;
+                }
+                
+                .tashe{
+                    width: 150px;
+                    height: 86px;
+                }
+
+                .cards{
+                    display: flex;
+                    justify-content: center;
+                    flex-wrap: wrap;
+                    align-items: center;
+                    gap: 30px;     
+                }
+        
+                .form{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    flex-direction: column;
+                    background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url('./Flario/img/bacground_media.png') no-repeat center;
+                    width: 1024px;
+                    height: 695px;
+                    position: relative;
+                }
+                    
+                .forms{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    flex-wrap: wrap;
+                    align-items: center; 
+                    gap: 20px;
+                    width: 470px;
+                }
+                
+                .form-text{
+                    font-family: 'Inria Serif', serif;
+                    font-size: 18px;
+                    text-transform: uppercase;
+                    color: #FFFFFF;
+                    position: relative;
+                    bottom: 100px;
+                    right: 300px;                                
+                }
+                
+                .form-control{
+                    font-family: 'Inter', sans-serif;
+                    width: 225px;
+                    height: 38px;
+                    font-size: 20px;
+                    color: #AAAAAA;
+                    opacity: 0.5;
+                    
+                }
+                
+                .form-control-text{
+                    font-family: 'Inter', sans-serif;
+                    width: 470px;
+                    height: 100px;
+                    font-size: 20px;
+                    color: #AAAAAA;
+                    opacity: 0.5;
+                }
+                
+                .btn-success{
+                    font-family: 'Inter', sans-serif;
+                    width: 470px;
+                    height: 56px;
+                    font-size: 20px;
+                    color: #FFFEFE;
+                    background: #ED8235;
+                    border: none;
+                    border-radius: 10px;
+                }             
+                
+        }
+
+
+        /*==============992==============*/
+
+        @media screen  and (max-width: 992px) {
+            .header{
+                background: url('./Flario/img/header_photo.png') no-repeat center;
+                width: 100%;
+                }
+                .nav{
+                    display: flex;
+                    justify-content: center;
+                    justify-content: space-between;
+                    padding-left: 45px;
+                    padding-top: 50px;
+                    padding-right: 20px;
+                    width: 100%;
+                }
+
+                .cards-background{
+                    display: flex;
+                    justify-content: center;
+                    background: url('./Flario/logo/rectangle.png') no-repeat center;
+                    background: none;
+                    width: 100%;
+                    height: 100%;
+                }
+            
+                .brands-img{
+                    display: flex;
+                    flex-wrap: wrap;
+                    gap: 25px;
+                    width: 730px;
+                    height: 240px;
+                    padding-left: 112px;
+                    
+                }
+                .limba{
+                    width: 160px;
+                    height: 112px;
+                }
+                
+                .jins{
+                    width: 85px;
+                    height: 67px;
+                }
+                
+                .rclear{
+                    width: 250px;
+                    height: 63px;
+                }
+                
+                .bombini{
+                    width: 230px;
+                    height: 87px;
+                }
+                
+                .tashe{
+                    width: 150px;
+                    height: 86px;
+                }
+                .cards{
+                    display: flex;
+                    justify-content: center;
+                    flex-wrap: wrap;
+                    align-items: center;
+                    gap: 30px;     
+                }
+
+                .input-form{
+                    display: flex;
+                    width: 992px;
+                    height: 675px;
+                    
+                }
+
+                .form{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    flex-direction: column;
+                    flex-wrap: wrap;
+                    background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url('./Flario/img/bacground_media.png') no-repeat center;  
+                    background-size: 100% 100%;
+                    position: relative;
+                }              
+                
+                .forms{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    flex-wrap: wrap;
+                    align-items: center; 
+                    gap: 20px;
+                    width: 470px;
+                }
+                
+                .form-text{
+                    font-family: 'Inria Serif', serif;
+                    font-size: 18px;
+                    text-transform: uppercase;
+                    color: #FFFFFF;
+                    position: relative;
+                    bottom: 100px;
+                    right: 300px;                   
+                }
+                
+                .form-control{
+                    font-family: 'Inter', sans-serif;
+                    width: 225px;
+                    height: 38px;
+                    font-size: 20px;
+                    color: #AAAAAA;
+                    opacity: 0.5;             
+                }
+                
+                .form-control-text{
+                    font-family: 'Inter', sans-serif;
+                    width: 470px;
+                    height: 100px;
+                    font-size: 20px;
+                    color: #AAAAAA;
+                    opacity: 0.5;
+                }
+                
+                .btn-success{
+                    font-family: 'Inter', sans-serif;
+                    width: 470px;
+                    height: 56px;
+                    font-size: 20px;
+                    color: #FFFEFE;
+                    background: #ED8235;
+                    border: none;
+                    border-radius: 10px;
+                }
+                
+                
+        }
+        /*==============768==============*/
+
+        @media screen and (max-width: 768px) {
+            
+            
+            .header{
+                background: url('./Flario/img/header_photo.png') no-repeat center;
+                width: 100%;
+                }
+
+                .menu{
+                    display: flex;
+                    justify-content: center; 
+                 }
+
+                .navigation{
+                    display: flex;
+                    justify-content: center;  
+                    align-items: center;
+                    flex-wrap: wrap;        
+                }
+
+                .nav{
+                    display: flex;
+                    justify-content: center;
+                    justify-content: space-between;
+                    padding-left: 45px;
+                    padding-top: 50px;
+                    padding-right: 15px;
+                    width: 768px;
+                }
+
+                .navigation-li{
+                    display: flex;
+                    justify-content: space-between;
+                    padding-right: 20px;
+                    font-size: 14px;
+                    text-transform: uppercase;
+                } 
+
+                .section{
+                    display: flex;
+                    justify-content: center;
+                    width: 100%;
+                    height: 420px;
+                }
+
+                .logo-brands{
+                    display: flex;
+                    justify-content: center;
+                    width: 100%;
+                    height: 395px;
+                    background-color: #212025;
+                    background-size: 1920px;
+                    padding-top: 64px;
+                    padding-left: 44px;
+                }
+
+                .brands-text{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 14px; 
+                    line-height: 20px;
+                    color: #9D9D9D;
+                    padding-bottom: 15px;
+                    padding-top: 15px;
+                }
+
+                .cards{
+                    display: flex;
+                    justify-content: center;
+                    flex-wrap: wrap;
+                    align-items: center;
+                    gap: 30px;
+                }
+
+                .brands-img{
+                    display: flex;
+                    flex-wrap: wrap;
+                    gap: 15px;
+                    width: 430px;
+                    height: 240px;
+                    padding-left: 112px;
+                    
+                }
+
+                .limba{
+                    width: 120px;
+                    height: 90px;
+                }
+                
+                .jins{
+                    width: 85px;
+                    height: 67px;
+                }
+                
+                .rclear{
+                    width: 180px;
+                    height: 43px;
+                }
+                
+                .bombini{
+                    width: 190px;
+                    height: 60px;
+                }
+                
+                .tashe{
+                    width: 140px;
+                    height: 70px;
+                }
+                
+                .form{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    flex-direction: column;
+                    flex-wrap: wrap;
+                    background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url('./Flario/img/background_phone.png.png') no-repeat center;  
+                    background-size: 100%;
+                    position: relative;
+                }
+                
+                .forms{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    flex-wrap: wrap;
+                    align-items: center; 
+                    gap: 20px;
+                    width: 470px;
+                }
+                
+                .form-text{
+                    font-family: 'Inria Serif', serif;
+                    font-size: 18px;
+                    text-transform: uppercase;
+                    color: #FFFFFF;
+                    position: relative;
+                    bottom: 100px;
+                    right: 300px;         
+                }
+                
+                .form-control{
+                    font-family: 'Inter', sans-serif;
+                    width: 225px;
+                    height: 38px;
+                    font-size: 20px;
+                    color: #AAAAAA;
+                    opacity: 0.5;     
+                }
+                
+                .form-control-text{
+                    font-family: 'Inter', sans-serif;
+                    width: 470px;
+                    height: 100px;
+                    font-size: 20px;
+                    color: #AAAAAA;
+                    opacity: 0.5;
+                }
+                
+                .btn-success{
+                    font-family: 'Inter', sans-serif;
+                    width: 470px;
+                    height: 56px;
+                    font-size: 20px;
+                    color: #FFFEFE;
+                    background: #ED8235;
+                    border: none;
+                    border-radius: 10px;
+                }
+        }
+
+        /*==============726==============*/
+
+        @media screen and (max-width: 730px) {
+            .cards-background{
+                display: flex;
+                justify-content: center;
+                background: url('./Flario/logo/rectangle.png') no-repeat center;
+                background: none;
+                width: 100%;
+                height: 100%;
+            }
+            
+            .header{
+                background: url('./Flario/img/header_photo.png') no-repeat center;
+                width: 100%;
+                }
+
+                .navigation{
+                    display: flex;
+                    justify-content: center;  
+                    align-items: center;
+                    flex-wrap: wrap;
+                }
+
+                .nav{
+                    display: flex;
+                    justify-content: center;
+                    justify-content: space-between;
+                    padding-left: 45px;
+                    padding-top: 50px;
+                    padding-right: 15px;
+                    width: 100%;
+                }
+
+                .section{
+                    display: flex;
+                    justify-content: center;
+                    width: 100%;
+                    height: 420px;
+                }
+
+                .section-bloc{
+                    display: flex;
+                    flex-direction: column;
+                    padding-top: 43px;
+                    width: 650px;
+                    height: 390px;
+                    text-align: center;
+                    padding-bottom: 30px;
+                }
+
+                .logo-brands{
+                    display: flex;
+                    justify-content: center;
+                    width: 100%;
+                    height: 395px;
+                    background-color: #212025;
+                    background-size: 1920px;
+                    padding-top: 64px;
+                    padding-left: 44px;
+                }
+                    
+                .cards{
+                    display: flex;
+                    justify-content: center;
+                    flex-wrap: wrap;
+                    align-items: center;
+                    gap: 30px;
+                }
+
+                .brands-img{
+                    display: flex;
+                    flex-wrap: wrap;
+                    gap: 15px;
+                    width: 430px;
+                    height: 240px;
+                    padding-left: 112px;            
+                }
+                
+                .form{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    flex-direction: column;
+                    flex-wrap: wrap;
+                    background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url('./Flario/img/background_phone.png.png') no-repeat center;  
+                    background-size: 100%;
+                    position: relative;
+                }
+                
+                .forms{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    flex-wrap: wrap;
+                    align-items: center; 
+                    gap: 20px;
+                    width: 470px;
+                }
+                
+                .form-text{
+                    font-family: 'Inria Serif', serif;
+                    font-size: 18px;
+                    text-transform: uppercase;
+                    color: #FFFFFF;
+                    position: relative;
+                    bottom: 100px;
+                    right: 300px;         
+                }
+                
+                .form-control{
+                    font-family: 'Inter', sans-serif;
+                    width: 225px;
+                    height: 38px;
+                    font-size: 20px;
+                    color: #AAAAAA;
+                    opacity: 0.5;     
+                }
+                
+                .form-control-text{
+                    font-family: 'Inter', sans-serif;
+                    width: 470px;
+                    height: 100px;
+                    font-size: 20px;
+                    color: #AAAAAA;
+                    opacity: 0.5;
+                }
+                
+                .btn-success{
+                    font-family: 'Inter', sans-serif;
+                    width: 470px;
+                    height: 56px;
+                    font-size: 20px;
+                    color: #FFFEFE;
+                    background: #ED8235;
+                    border: none;
+                    border-radius: 10px;
+                }
+        }
+        /*==============668==============*/
+
+        @media screen and (max-width: 668px) {
+            .header{
+                background: url('./Flario/img/header_photo.png') no-repeat center;
+                width: 100%;
+                margin: 0px auto;
+                }
+
+                .menu{
+                    width: 100%;
+                
+                }
+
+                .navigation{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    flex-wrap: wrap;
+                    gap: 15px;
+                    padding-top: 10px;
+                    
+                }
+
+                .navigation-li{
+                    display: flex;
+                    justify-content: space-between;
+                    padding-right: 0px;
+                    font-size: 14px;
+                    text-transform: uppercase;
+                }
+
+                .nav{
+                    display: flex;
+                    justify-content: center;
+                    justify-content: space-between;
+                    padding-left: 45px;
+                    padding-top: 50px;
+                    padding-right: 15px;
+                    width: 100%;
+                }
+
+                .cards{
+                    display: flex;
+                    justify-content: center;
+                    flex-wrap: wrap;
+                    align-items: center;
+                    gap: 30px;
+                }
+
+                .text{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 18px;
+                    text-transform: uppercase;
+                    color: #5A5A5A;
+                }
+                
+                .card-text{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 14px;
+                    color: #5A5A5A;
+                    padding-top: 50px;
+                }
+
+                .brands{
+                    display: flex;
+                    align-items: center;
+                    flex-direction: column; 
+                    width: 243px;
+                    height: 200px;
+                }
+
+                .brands-img{
+                    display: flex;
+                    flex-wrap: wrap;
+                    gap: 10px;
+                    width: 100%;
+                    height: 240px;
+                    padding-left: 112px;
+                    margin: 0px auto;
+                }
+
+                .logo-brands{
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: center;
+                    align-items: center;
+                    width: 328px;
+                    height: auto;
+                    background-color: #212025;
+                    padding: 0px;   
+                }
+
+                .card-limba{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    height: 395px;
+                    width: 260px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/limba2.png') no-repeat center;
+                    background-size: cover;
+                }
+
+                .card-jins{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 260px;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/jin2.png') no-repeat center;
+                    background-size: cover;
+                }
+
+                .card-rclear{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 260px;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/light2.png')no-repeat center;
+                    background-size: cover;
+                }
+                
+                .card-bombini{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 260px;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/bombini2.png')no-repeat center;
+                    background-size: cover;
+                }
+                
+                .card-tashe{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 260px;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/tashe2.png')no-repeat center;
+                    background-size: cover;
+                }
+
+                .section{
+                    display: flex;
+                    justify-content: center;
+                    width: 1240px;
+                    height: 500px;
+                    margin: 0px auto;
+                }
+
+                .limba{
+                    width: 187px;
+                    height: 112px;
+                }
+                
+                .jins{
+                    width: 85px;
+                    height: 67px;
+                }
+                
+                .rclear{
+                    width: 200px;
+                    height: 63px;
+                }
+                
+                .bombini{
+                    width: 200px;
+                    height: 67px;
+                }
+                
+                .tashe{
+                    width: 179px;
+                    height: 66px;
+                }
+                
+                .section{
+                    display: flex;
+                    justify-content: center;
+                    width: 488px;
+                    height: 500px;
+                }
+
+                .logo-brands{
+                    display: flex;
+                    width: 100%;
+                    height: 395px;
+                    background-color: #212025;
+                }
+
+                .input-form{
+                    display: flex;
+                    width: 668px;
+                    height: 675px;                 
+                }
+
+                .form{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    flex-direction: column;
+                    flex-wrap: wrap;
+                    background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url('./Flario/img/background_phone.png.png') no-repeat center;  
+                    background-size: 100%;
+                    position: relative;
+                }
+
+                .form-text{
+                    font-family: 'Inria Serif', serif;
+                    font-size: 18px;
+                    text-transform: uppercase;
+                    color: #FFFFFF;
+                    position: relative;
+                    bottom: 100px;
+                    right: 250px;         
+                }
+                
+                .footer{
+                    display: flex;
+                    justify-content: space-between;
+                    flex-wrap: wrap;
+                    align-items: center;
+                    width: 100%;
+                    padding-top: 30px;
+                    margin: 0px auto;
+                }
+
+                .footer-logo{
+                    font-family: 'Inria Serif', serif;
+                    font-size: 26px;
+                    color: #5A5A5A;
+                }
+                
+                .footer-contacts{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 12px;
+                    line-height: 20px;
+                    color: #5A5A5A;
+                    text-transform: uppercase;
+                }
+                
+                .footer-privacy{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 12px;
+                    line-height: 20px;
+                    color: #5A5A5A;
+                    text-transform: uppercase;
+                }
+                
+                .footer-cookies{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 10px;
+                    color: #5A5A5A;
+                
+                }
+                .footer-info{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 10px;
+                    color: #5A5A5A;
+                }
+            
+        }
+
+
+        /*==============640==============*/
+
+        @media screen and (max-width: 640px) {
+            .header{
+                background: url('./Flario/img/header_photo.png') no-repeat center;
+                width: 100%;
+                margin: 0px auto;
+                }
+           
+                .menu{
+                    width: 100%;      
+                }
+
+                .navigation{
+                    display: flex;
+                    justify-content: center;      
+                    align-items: center;
+                    flex-wrap: wrap;
+                    gap: 15px;
+                    padding: 0px;
+                }
+
+                .navigation-li{
+                    display: flex;
+                    justify-content: space-between;
+                    padding-right: 0px;
+                    font-size: 14px;
+                    text-transform: uppercase;
+                }
+
+                .nav{
+                    display: flex;
+                    justify-content: center;
+                    justify-content: space-between;
+                    padding-left: 45px;
+                    padding-top: 50px;
+                    padding-right: 15px;
+                    width: 100%;
+                }
+
+                .cards{
+                    display: flex;
+                    justify-content: center;
+                    flex-wrap: wrap;
+                    align-items: center;
+                    gap: 30px;
+                }
+                .text{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 18px;
+                    text-transform: uppercase;
+                    color: #5A5A5A;
+                }
+                
+                .card-text{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 14px;
+                    color: #5A5A5A;
+                    padding-top: 50px;
+                }
+                .brands{
+                    display: flex;
+                    align-items: center;
+                    flex-direction: column; 
+                    width: 243px;
+                    height: 200px;
+                }
+
+                .brands-img{
+                    display: flex;
+                    flex-wrap: wrap;
+                    gap: 10px;
+                    width: 100%;
+                    height: 240px;
+                    padding-left: 112px;
+                    margin: 0px auto;
+                }
+
+                .logo-brands{
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: center;
+                    align-items: center;
+                    width: 328px;
+                    height: auto;
+                    background-color: #212025;
+                    padding: 0px;
+                }
+
+                .card-limba{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    height: 395px;
+                    width: 260px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/limba2.png') no-repeat center;
+                    background-size: cover;
+                }
+
+                .card-jins{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 260px;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/jin2.png') no-repeat center;
+                    background-size: cover;
+                }
+
+                .card-rclear{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 260px;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/light2.png')no-repeat center;
+                    background-size: cover;
+                }
+                
+                .card-bombini{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 260px;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/bombini2.png')no-repeat center;
+                    background-size: cover;
+                }
+                
+                .card-tashe{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 260px;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/tashe2.png')no-repeat center;
+                    background-size: cover;
+                }
+
+                .section{
+                    display: flex;
+                    justify-content: center;
+                    width: 1240px;
+                    height: 500px;
+                    margin: 0px auto;
+                }
+
+                .limba{
+                    width: 187px;
+                    height: 112px;
+                }
+                
+                .jins{
+                    width: 85px;
+                    height: 67px;
+                }
+                
+                .rclear{
+                    width: 200px;
+                    height: 63px;
+                }
+                
+                .bombini{
+                    width: 200px;
+                    height: 67px;
+                }
+                
+                .tashe{
+                    width: 179px;
+                    height: 66px;
+                }
+                
+                .section{
+                    display: flex;
+                    justify-content: center;
+                    width: 640px;
+                    height: 400px;
+                }
+                .logo-brands{
+                    display: flex;
+                    width: 100%;
+                    height: 395px;
+                    background-color: #212025;
+                }
+
+                .form{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    flex-direction: column;
+                    flex-wrap: wrap;
+                    background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url('./Flario/img/background_phone.png.png') no-repeat center;  
+                    background-size: cover;
+                    position: relative;
+                }
+                
+                .footer{
+                    display: flex;
+                    justify-content: space-between;
+                    flex-wrap: wrap;
+                    align-items: center;
+                    width: 100%;
+                    padding-top: 30px;
+                    margin: 0px auto;
+                }
+
+                .footer-logo{
+                    font-family: 'Inria Serif', serif;
+                    font-size: 26px;
+                    color: #5A5A5A;
+                }
+                
+                .footer-contacts{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 12px;
+                    line-height: 20px;
+                    color: #5A5A5A;
+                    text-transform: uppercase;
+                }
+                
+                .footer-privacy{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 12px;
+                    line-height: 20px;
+                    color: #5A5A5A;
+                    text-transform: uppercase;
+                }
+                
+                .footer-cookies{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 10px;
+                    color: #5A5A5A;      
+                }
+
+                .footer-info{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 10px;
+                    color: #5A5A5A;
+                }
+            
+            }
+
+            
+            /*==============578==============*/
+
+        @media screen and (max-width: 578px) {
+            .header{
+                background: url('./Flario/img/header_photo.png') no-repeat center;
+                width: 100%;
+                height: 100%;      
+                }
+
+                .navigation{
+                    display: flex;
+                    justify-content: center; 
+                    align-items: center;
+                    flex-wrap: wrap;
+                    gap: 15px;
+                    padding-top: 10px;           
+                }
+
+                .btn{
+                    font-family: 'Inria Serif', serif, sans-serif;
+                    font-size: 24px;  
+                    color: #C6C6C6;
+                    background: inherit;
+                    border: none;
+                    cursor: pointer;
+                }
+
+                .card{
+                    display: flex;
+                    justify-content: center;
+                    flex-direction: column;  
+                    width: 246px;
+                    height: 170px;
+                    padding-top: 84px;
+                    margin-left: 80px;
+                }
+
+                .text{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 18px;
+                    text-transform: uppercase;
+                    color: #C6C6C6;
+                }
+                
+                .card-text{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 14px;
+                    color: #C6C6C6;
+                    padding-top: 10px;
+                }
+                
+                .img{
+                   background: none;
+                }
+
+                .navigation-li{
+                    display: flex;
+                    justify-content: space-between;
+                    padding-right: 0px;
+                    font-size: 14px;
+                    text-transform: uppercase;
+                }
+
+                .nav{
+                    display: flex;
+                    justify-content: center;
+                    justify-content: space-between;
+                    padding-left: 45px;
+                    padding-top: 50px;
+                    padding-right: 15px;
+                    width: 488px;
+                }
+                .cards{
+                    display: flex;
+                    justify-content: center;
+                    flex-wrap: wrap;
+                    align-items: center;
+                    gap: 30px;
+                }
+
+                .brands{
+                    display: flex;
+                    flex-direction: column; 
+                    width: 243px;
+                    height: 200px;
+                    padding-top: 10px;
+                }
+
+                .logo-text{
+                    font-family: 'Inria Serif', serif;
+                    font-size: 24px; 
+                    color: #ADAAAA;
+                    text-transform: uppercase;   
+                }
+                
+                .brands-text{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 14px; 
+                    line-height: 20px;
+                    color: #9D9D9D;
+                    padding-bottom: 10px;
+                }
+                
+                .btn-brands{
+                    width: 150px;
+                    height: 35px;
+                    border: none;
+                    border-radius: 20px;
+                    cursor: pointer;
+                }
+
+                .brands-img{
+                    display: flex;
+                    flex-wrap: wrap;
+                    gap: 15px;
+                    width: 100%;
+                    height: 240px;
+                    padding-left: 112px;
+                    margin: 0px auto;                     
+                }
+
+                .logo-brands{
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: center;
+                    align-items: center;
+                    width: 577px;         
+                    background-color: #212025;
+                    padding: 0px;
+                }
+
+                .card-limba{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    height: 395px;
+                    width: 250px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/limba2.png') no-repeat center;
+                    background-size: cover;
+                }
+
+                .card-jins{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 250px;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/jin2.png') no-repeat center;
+                    background-size: cover;
+                }
+                .card-rclear{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 250px;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/light2.png')no-repeat center;
+                    background-size: cover;
+                }
+                
+                .card-bombini{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 250px;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/bombini2.png')no-repeat center;
+                    background-size: cover;
+                }
+                
+                .card-tashe{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 250px;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/tashe2.png')no-repeat center;
+                    background-size: cover;
+                }
+
+                .section{
+                    display: flex;
+                    justify-content: center;
+                    width: 578px;
+                    height: 500px;
+                    margin: 0px auto;
+                }
+
+                .limba{
+                    width: 100px;
+                    height: 70px;
+                }
+                
+                .jins{
+                    width: 75px;
+                    height: 47px;
+                }
+                
+                .rclear{
+                    width: 140px;
+                    height: 53px;
+                }
+                
+                .bombini{
+                    width: 130px;
+                    height: 50px;
+                }
+                
+                .tashe{
+                    width: 110px;
+                    height: 50px;
+                }
+
+                .section{
+                    display: flex;
+                    justify-content: center;
+                    width: 488px;
+                    height: 500px;
+                }
+
+                .form{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    flex-direction: column;
+                    flex-wrap: wrap;
+                    background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url('./Flario/img/background_phone.png.png') no-repeat center;  
+                    background-size: 578px auto;                        
+                    position: relative;
+                }
+
+                .form-text{
+                    font-family: 'Inria Serif', serif;
+                    font-size: 18px;
+                    text-transform: uppercase;
+                    color: #FFFFFF;
+                    position: relative;
+                    bottom: 50px;
+                    right: 15px;         
+                }
+                
+                .footer{
+                    display: flex;
+                    justify-content: space-between;
+                    flex-wrap: wrap;
+                    align-items: center;
+                    width: 577px;
+                    padding-top: 30px;
+                    margin: 0px auto;
+                }
+
+                .footer-logo{
+                    font-family: 'Inria Serif', serif;
+                    font-size: 26px;
+                    color: #5A5A5A;
+                }
+                
+                .footer-contacts{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 12px;
+                    line-height: 20px;
+                    color: #5A5A5A;
+                    text-transform: uppercase;
+                }
+                
+                .footer-privacy{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 12px;
+                    line-height: 20px;
+                    color: #5A5A5A;
+                    text-transform: uppercase;
+                }
+                
+                .footer-cookies{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 10px;
+                    color: #5A5A5A;
+                
+                }
+
+                .footer-info{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 10px;
+                    color: #5A5A5A;
+                }
+            
+        }
+
+            /*==============540==============*/
+
+        @media screen and (max-width: 540px) {
+            .header{
+                background: url('./Flario/img/sasha_mobil.png') no-repeat center;
+                width: 100%;
+                height: 100%;
+                margin: 0px auto;
+                }
+
+                .navigation{
+                    display: flex;
+                    justify-content: center; 
+                    align-items: center;
+                    flex-wrap: wrap;
+                    gap: 15px;
+                    padding-top: 10px;                 
+                }
+
+                .btn{
+                    font-family: 'Inria Serif', serif, sans-serif;
+                    font-size: 24px;  
+                    color: #C6C6C6;
+                    background: inherit;
+                    border: none;
+                    cursor: pointer;
+                }
+
+                .card{
+                    display: flex;
+                    justify-content: center;
+                    flex-direction: column;  
+                    width: 246px;
+                    height: 170px;
+                    padding-top: 84px;
+                    margin-left: 80px;
+                }
+
+                .text{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 18px;
+                    text-transform: uppercase;
+                    color: #C6C6C6;
+                }
+                
+                .card-text{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 14px;
+                    color: #C6C6C6;
+                    padding-top: 10px;
+                }
+                
+                .img{
+                   background: none;
+                }
+
+                .navigation-li{
+                    display: flex;
+                    justify-content: space-between;
+                    padding-right: 0px;
+                    font-size: 14px;
+                    text-transform: uppercase;
+                }
+
+                .nav{
+                    display: flex;
+                    justify-content: center;
+                    justify-content: space-between;
+                    padding-left: 45px;
+                    padding-top: 50px;
+                    padding-right: 15px;
+                    width: 488px;
+                }
+
+                .cards{
+                    display: flex;
+                    justify-content: center;
+                    flex-wrap: wrap;
+                    align-items: center;
+                    gap: 30px;
+                }
+                
+                .brands-img{
+                    display: flex;
+                    flex-wrap: wrap;
+                    gap: 15px;
+                    width: 100%;
+                    height: 240px;
+                    padding-left: 112px;
+                    margin: 0px auto;                                   
+                }
+
+                .logo-brands{
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: center;
+                    align-items: center;
+                    width: 328px;
+                    height: auto;
+                    background-color: #212025;
+                    padding: 0px;
+                }
+
+                .card-limba{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    height: 395px;
+                    width: 500px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/limba2.png') no-repeat center;
+                    background-size: cover;
+                }
+
+                .card-jins{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 500px;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/jin2.png') no-repeat center;
+                    background-size: cover;
+                }
+                .card-rclear{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 500px;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/light2.png')no-repeat center;
+                    background-size: cover;
+                }
+                
+                .card-bombini{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 500px;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/bombini2.png')no-repeat center;
+                    background-size: cover;
+                }
+                
+                .card-tashe{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 500px;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/tashe2.png')no-repeat center;
+                    background-size: cover;
+                }
+                .section{
+                    display: flex;
+                    justify-content: center;
+                    width: 1240px;
+                    height: 500px;
+                    margin: 0px auto;
+                }
+
+                .limba{
+                    width: 100px;
+                    height: 70px;
+                }
+                
+                .jins{
+                    width: 75px;
+                    height: 47px;
+                }
+                
+                .rclear{
+                    width: 130px;
+                    height: 23px;
+                }
+                
+                .bombini{
+                    width: 130px;
+                    height: 50px;
+                }
+                
+                .tashe{
+                    width: 110px;
+                    height: 50px;
+                }
+                .section{
+                    display: flex;
+                    justify-content: center;
+                    width: 488px;
+                    height: 500px;
+                }
+                .logo-brands{
+                    display: flex;
+                    width: 100%;
+                    height: 395px;
+                    background-color: #212025;
+                }
+
+                .form{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    flex-direction: column;
+                    flex-wrap: wrap;
+                    background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url('./Flario/img/background_phone.png.png') no-repeat center;  
+                    background-size: 540px auto;
+                    position: relative;
+                }
+
+                .form-text{
+                    font-family: 'Inria Serif', serif;
+                    font-size: 18px;
+                    text-transform: uppercase;
+                    color: #FFFFFF;
+                    position: relative;
+                    bottom: 50px;
+                    right: 15px;         
+                }
+                
+                .footer{
+                    display: flex;
+                    justify-content: space-between;
+                    flex-wrap: wrap;
+                    align-items: center;
+                    width: 100%;
+                    padding-top: 30px;
+                    margin: 0px auto;
+                }
+                .footer-logo{
+                    font-family: 'Inria Serif', serif;
+                    font-size: 26px;
+                    color: #5A5A5A;
+                }
+                
+                .footer-contacts{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 12px;
+                    line-height: 20px;
+                    color: #5A5A5A;
+                    text-transform: uppercase;
+                }
+                
+                .footer-privacy{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 12px;
+                    line-height: 20px;
+                    color: #5A5A5A;
+                    text-transform: uppercase;
+                }
+                
+                .footer-cookies{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 10px;
+                    color: #5A5A5A;
+                
+                }
+                .footer-info{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 10px;
+                    color: #5A5A5A;
+                }
+            
+        }
+            
+                /*==============500==============*/
+
+        @media screen and (max-width: 500px) {
+            .header{
+                background: url('./Flario/img/sasha_mobil.png') no-repeat center;
+                width: 100%;
+                height: 100%;
+                margin: 0px auto;
+                }
+
+                .navigation{
+                    display: flex;
+                    justify-content: center;
+                    
+                    align-items: center;
+                    flex-wrap: wrap;
+                    gap: 15px;
+                    padding: 0px;
+                    
+                }
+
+                .navigation-li{
+                    display: flex;
+                    justify-content: space-between;
+                    padding-right: 0px;
+                    font-size: 14px;
+                    text-transform: uppercase;
+                }
+
+                .nav{
+                    display: flex;
+                    justify-content: center;
+                    justify-content: space-between;
+                    padding-left: 45px;
+                    padding-top: 50px;
+                    padding-right: 15px;
+                    width: 488px;
+                }
+
+                .cards{
+                    display: flex;
+                    justify-content: center;
+                    flex-wrap: wrap;
+                    align-items: center;
+                    gap: 30px;
+                }
+
+                .text{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 18px;
+                    text-transform: uppercase;
+                    color: #5A5A5A;
+                }
+                
+                .card-text{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 14px;
+                    color: #5A5A5A;
+                    padding-top: 50px;
+                }
+
+                .brands-img{
+                    display: flex;
+                    flex-wrap: wrap;
+                    gap: 15px;
+                    width: 100%;
+                    height: 240px;
+                    padding-left: 112px;
+                    margin: 0px auto;
+                    
+                }
+
+                .logo-brands{
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: center;
+                    align-items: center;
+                    width: 328px;
+                    height: auto;
+                    background-color: #212025;
+                    padding: 0px;
+                }
+
+                .card-limba{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    height: 395px;
+                    width: 500px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/limba2.png') no-repeat center;
+                    background-size: cover;
+                }
+
+                .card-jins{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 500px;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/jin2.png') no-repeat center;
+                    background-size: cover;
+                }
+
+                .card-rclear{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 500px;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/light2.png')no-repeat center;
+                    background-size: cover;
+                }
+                
+                .card-bombini{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 500px;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/bombini2.png')no-repeat center;
+                    background-size: cover;
+                }
+                
+                .card-tashe{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 500px;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/tashe2.png')no-repeat center;
+                    background-size: cover;
+                }
+
+                .section{
+                    display: flex;
+                    justify-content: center;
+                    width: 1240px;
+                    height: 500px;
+                    margin: 0px auto;
+                }
+
+                .limba{
+                    width: 100px;
+                    height: 70px;
+                }
+                
+                .jins{
+                    width: 75px;
+                    height: 47px;
+                }
+                
+                .rclear{
+                    width: 130px;
+                    height: 23px;
+                }
+                
+                .bombini{
+                    width: 130px;
+                    height: 50px;
+                }
+                
+                .tashe{
+                    width: 110px;
+                    height: 50px;
+                }
+
+                .section{
+                    display: flex;
+                    justify-content: center;
+                    width: 488px;
+                    height: 500px;
+                }
+
+                .logo-brands{
+                    display: flex;
+                    width: 100%;
+                    height: 395px;
+                    background-color: #212025;
+                }
+
+                .form{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    flex-direction: column;
+                    flex-wrap: wrap;
+                    background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url('./Flario/img/background_phone.png.png') no-repeat center;  
+                    background-size: 500px auto;
+                    position: relative;
+                }
+
+                .form-text{
+                    font-family: 'Inria Serif', serif;
+                    font-size: 18px;
+                    text-transform: uppercase;
+                    color: #FFFFFF;
+                    position: relative;
+                    bottom: 50px;
+                    right: 15px;         
+                }
+         
+                .form-control{
+                   font-family: 'Inter', sans-serif;
+                   width: 200px;
+                   height: 35px;
+                   font-size: 20px;
+                   color: #AAAAAA;
+                   opacity: 0.5;
+                }
+
+                .form-control-text{
+                   font-family: 'Inter', sans-serif;
+                   width: 420px;
+                   height: 100px;
+                   font-size: 20px;
+                   color: #AAAAAA;
+                   opacity: 0.5;
+                }
+
+                .btn-success{
+                   font-family: 'Inter', sans-serif;
+                   width: 420px;
+                   height: 40px;
+                   font-size: 20px;
+                   color: #FFFEFE;
+                   background: #ED8235;
+                   border: none;
+                   border-radius: 10px;
+                }
+                
+                .footer{
+                    display: flex;
+                    justify-content: space-between;
+                    flex-wrap: wrap;
+                    align-items: center;
+                    width: 488px;
+                    padding-top: 30px;
+                    margin: 0px auto;
+                }
+                .footer-logo{
+                    font-family: 'Inria Serif', serif;
+                    font-size: 26px;
+                    color: #5A5A5A;
+                }
+                
+                .footer-contacts{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 12px;
+                    line-height: 20px;
+                    color: #5A5A5A;
+                    text-transform: uppercase;
+                }
+                
+                .footer-privacy{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 12px;
+                    line-height: 20px;
+                    color: #5A5A5A;
+                    text-transform: uppercase;
+                }
+                
+                .footer-cookies{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 10px;
+                    color: #5A5A5A;
+                
+                }
+                .footer-info{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 10px;
+                    color: #5A5A5A;
+                }
+            
+        }
+
+        /*==============488==============*/
+
+        @media screen and (max-width: 488px) {
+            .header{
+                background: url('./Flario/img/sasha_mobil.png') no-repeat center;
+                width: 100%;
+                height: 100%;
+                margin: 0px auto;
+                }
+
+            
+                .navigation{
+                    display: flex;
+                    justify-content: center; 
+                    align-items: center;
+                    flex-wrap: wrap; 
+                    width: 100%;
+                    padding-top: 10px;   
+                }
+
+                .navigation-li{
+                    display: flex;
+                    justify-content: space-between;
+                    padding-right: 0px;
+                    font-size: 14px;
+                    text-transform: uppercase;
+                }
+
+                .nav{
+                    display: flex;
+                    justify-content: center;
+                    justify-content: space-between;
+                    padding-left: 45px;
+                    padding-top: 50px;
+                    padding-right: 15px;
+                    width: 488px;
+                }
+                .cards{
+                    display: flex;
+                    justify-content: center;
+                    flex-wrap: wrap;
+                    align-items: center;
+                    gap: 30px;
+                }
+
+                .text{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 18px;
+                    text-transform: uppercase;
+                    color: #5A5A5A;
+                }
+                
+                .card-text{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 14px;
+                    color: #5A5A5A;
+                    padding-top: 50px;
+                }
+
+                .brands-img{
+                    display: flex;
+                    flex-wrap: wrap;
+                    gap: 15px;
+                    width: 100%;
+                    height: 240px;
+                    padding-left: 112px;
+                    margin: 0px auto;
+                    
+                }
+
+                .section{
+                    display: flex;
+                    justify-content: center;
+                    width: 1240px;
+                    height: 500px;
+                    margin: 0px auto;
+                }
+
+                .limba{
+                    width: 100px;
+                    height: 70px;
+                }
+                
+                .jins{
+                    width: 75px;
+                    height: 47px;
+                }
+                
+                .rclear{
+                    width: 130px;
+                    height: 23px;
+                }
+                
+                .bombini{
+                    width: 130px;
+                    height: 50px;
+                }
+                
+                .tashe{
+                    width: 110px;
+                    height: 50px;
+                }
+                .section{
+                    display: flex;
+                    justify-content: center;
+                    width: 488px;
+                    height: 500px;
+                }
+                .logo-brands{
+                    display: flex;
+                    width: 488px;
+                    height: 395px;
+                    background-color: #212025;
+                    padding-top: 84px;
+                    padding-left: 44px;
+                }
+
+                .card-limba{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    height: 395px;
+                    width: 488px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/limba2.png') no-repeat center;
+                    background-size: cover;
+                }
+
+                .card-jins{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 488px;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/jin2.png') no-repeat center;
+                    background-size: cover;
+                }
+                .card-rclear{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 488px;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/light2.png')no-repeat center;
+                    background-size: cover;
+                }
+                
+                .card-bombini{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 488px;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/bombini2.png')no-repeat center;
+                    background-size: cover;
+                }
+                
+                .card-tashe{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 488px;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/tashe2.png')no-repeat center;
+                    background-size: cover;
+                }
+                
+                .footer{
+                    display: flex;
+                    justify-content: space-between;
+                    flex-wrap: wrap;
+                    align-items: center;
+                    width: 100%;
+                    padding-top: 30px;
+                    margin: 0px auto;
+                }
+                .footer-logo{
+                    font-family: 'Inria Serif', serif;
+                    font-size: 26px;
+                    color: #5A5A5A;
+                }
+                
+                .footer-contacts{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 12px;
+                    line-height: 20px;
+                    color: #5A5A5A;
+                    text-transform: uppercase;
+                }
+                
+                .footer-privacy{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 12px;
+                    line-height: 20px;
+                    color: #5A5A5A;
+                    text-transform: uppercase;
+                }
+                
+                .footer-cookies{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 10px;
+                    color: #5A5A5A;
+                
+                }
+                .footer-info{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 10px;
+                    color: #5A5A5A;
+                }
+                
+        }
+
+        /*==============480==============*/
+
+        @media screen and (max-width: 480px) {
+            .header{
+                background: url('./Flario/img/sasha_mobil.png') no-repeat center;
+                width: 100%;
+                height: 100%;
+                margin: 0px auto;
+                }
+
+            
+                .navigation{
+                    display: flex;
+                    justify-content: center; 
+                    align-items: center;
+                    flex-wrap: wrap; 
+                    width: 100%;   
+                }
+
+                .navigation-li{
+                    display: flex;
+                    justify-content: space-between;
+                    padding-right: 0px;
+                    font-size: 14px;
+                    text-transform: uppercase;
+                }
+
+                .nav{
+                    display: flex;
+                    justify-content: center;
+                    justify-content: space-between;
+                    padding-left: 45px;
+                    padding-top: 50px;
+                    padding-right: 15px;
+                    width: 100%;
+                }
+                .cards{
+                    display: flex;
+                    justify-content: center;
+                    flex-wrap: wrap;
+                    align-items: center;
+                    gap: 30px;
+                }
+                .text{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 18px;
+                    text-transform: uppercase;
+                    color: #5A5A5A;
+                }
+                
+                .card-text{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 14px;
+                    color: #5A5A5A;
+                    padding-top: 50px;
+                }
+
+                .cards-background{
+                    background: none;
+                }
+                .brands-img{
+                    display: flex;
+                    flex-wrap: wrap;
+                    gap: 15px;
+                    width: 100%;
+                    height: 240px;
+                    padding-left: 112px;
+                    margin: 0px auto;              
+                }
+
+                .card-limba{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    height: 395px;
+                    width: 480px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/limba2.png') no-repeat center;
+                    background-size: cover;
+                }
+
+                .card-jins{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 480px;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/jin2.png') no-repeat center;
+                    background-size: cover;
+                }
+
+                .card-rclear{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 480px;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/light2.png')no-repeat center;
+                    background-size: cover;
+                }
+                
+                .card-bombini{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 480px;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/bombini2.png')no-repeat center;
+                    background-size: cover;
+                }
+                
+                .card-tashe{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 480px;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/tashe2.png')no-repeat center;
+                    background-size: cover;
+                }
+
+                .section{
+                    display: flex;
+                    justify-content: center;
+                    width: 480px;
+                    height: 500px;
+                    margin: 0px auto;
+                }
+
+                .limba{
+                    width: 100px;
+                    height: 70px;
+                }
+                
+                .jins{
+                    width: 75px;
+                    height: 47px;
+                }
+                
+                .rclear{
+                    width: 130px;
+                    height: 23px;
+                }
+                
+                .bombini{
+                    width: 130px;
+                    height: 50px;
+                }
+                
+                .tashe{
+                    width: 110px;
+                    height: 50px;
+                }
+                
+                .logo-brands{
+                    display: flex;
+                    width: 100%;
+                    height: 395px;
+                    background-color: #212025;
+                    padding-top: 20px;
+                    padding-left: 0px;
+                }
+
+                .form{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    flex-direction: column;
+                    flex-wrap: wrap;
+                    background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url('./Flario/img/background_phone.png.png') no-repeat center;  
+                    background-size: 480px 100%;
+                    position: relative;
+                }
+
+                .form-text{
+                    font-family: 'Inria Serif', serif;
+                    font-size: 18px;
+                    text-transform: uppercase;
+                    color: #FFFFFF;
+                    position: relative;
+                    bottom: 50px;
+                    right: 15px;         
+                }
+           
+                .form-control{
+                   font-family: 'Inter', sans-serif;
+                   width: 170px;
+                   height: 35px;
+                   font-size: 20px;
+                   color: #AAAAAA;
+                   opacity: 0.5;
+                }
+
+                .form-control-text{
+                   font-family: 'Inter', sans-serif;
+                   width: 360px;
+                   height: 100px;
+                   font-size: 20px;
+                   color: #AAAAAA;
+                   opacity: 0.5;
+                }
+
+                .btn-success{
+                   font-family: 'Inter', sans-serif;
+                   width: 360px;
+                   height: 40px;
+                   font-size: 20px;
+                   color: #FFFEFE;
+                   background: #ED8235;
+                   border: none;
+                   border-radius: 10px;
+                }
+                
+                .footer{
+                    display: flex;
+                    justify-content: space-between;
+                    flex-wrap: wrap;
+                    align-items: center;
+                    width: 100%;
+                    padding-top: 30px;
+                    margin: 0px auto;
+                }
+
+                .footer-logo{
+                    font-family: 'Inria Serif', serif;
+                    font-size: 26px;
+                    color: #5A5A5A;
+                }
+                
+                .footer-contacts{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 12px;
+                    line-height: 20px;
+                    color: #5A5A5A;
+                    text-transform: uppercase;
+                }
+                
+                .footer-privacy{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 12px;
+                    line-height: 20px;
+                    color: #5A5A5A;
+                    text-transform: uppercase;
+                }
+                
+                .footer-cookies{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 10px;
+                    color: #5A5A5A;       
+                }
+
+                .footer-info{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 10px;
+                    color: #5A5A5A;
+                }
+                
+        }
+
+        /*==============460==============*/
+
+        @media screen and (max-width: 460px) {
+            .header{
+                background: url('./Flario/img/sasha_mobil.png') no-repeat center;
+                width: 100%;
+                height: 100%;
+                margin: 0px auto;
+                }
+
+            
+                .navigation{
+                    display: flex;
+                    justify-content: center; 
+                    align-items: center;
+                    flex-wrap: wrap; 
+                    width: 100%;   
+                }
+
+                .navigation-li{
+                    display: flex;
+                    justify-content: space-between;
+                    padding-right: 0px;
+                    font-size: 14px;
+                    text-transform: uppercase;
+                }
+
+                .nav{
+                    display: flex;
+                    justify-content: center;
+                    justify-content: space-between;
+                    padding-left: 45px;
+                    padding-top: 50px;
+                    padding-right: 15px;
+                    width: 100%;
+                }
+                .cards{
+                    display: flex;
+                    justify-content: center;
+                    flex-wrap: wrap;
+                    align-items: center;
+                    gap: 30px;
+                }
+
+                .text{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 18px;
+                    text-transform: uppercase;
+                    color: #5A5A5A;
+                }
+                
+                .card-text{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 14px;
+                    color: #5A5A5A;
+                    padding-top: 50px;
+                }
+
+                .cards-background{
+                    background: none;
+                }
+
+                .brands-img{
+                    display: flex;
+                    flex-wrap: wrap;
+                    gap: 15px;
+                    width: 100%;
+                    height: 240px;
+                    padding-left: 112px;
+                    margin: 0px auto;         
+                }
+
+                .card-limba{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    height: 395px;
+                    width: 460px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/limba2.png') no-repeat center;
+                    background-size: cover;
+                }
+
+                .card-jins{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 460px;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/jin2.png') no-repeat center;
+                    background-size: cover;
+                }
+
+                .card-rclear{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 460px;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/light2.png')no-repeat center;
+                    background-size: cover;
+                }
+                
+                .card-bombini{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 460px;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/bombini2.png')no-repeat center;
+                    background-size: cover;
+                }
+                
+                .card-tashe{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 460px;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/tashe2.png')no-repeat center;
+                    background-size: cover;
+                }
+
+                .section{
+                    display: flex;
+                    justify-content: center;
+                    width: 460px;
+                    height: 500px;
+                    margin: 0px auto;
+                }
+
+                .limba{
+                    width: 100px;
+                    height: 70px;
+                }
+                
+                .jins{
+                    width: 75px;
+                    height: 47px;
+                }
+                
+                .rclear{
+                    width: 130px;
+                    height: 43px;
+                }
+                
+                .bombini{
+                    width: 130px;
+                    height: 50px;
+                }
+                
+                .tashe{
+                    width: 110px;
+                    height: 50px;
+                }
+                
+                .logo-brands{
+                    display: flex;
+                    width: 100%;
+                    height: 395px;
+                    background-color: #212025;
+                    padding-top: 20px;
+                    padding-left: 0px;
+                }
+
+                .forms{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    flex-wrap: wrap;
+                    align-items: center;                   
+                    gap: 20px;
+                    width: 100%;
+                }
+
+                .form{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    flex-direction: column;
+                    flex-wrap: wrap;
+                    background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url('./Flario/img/background_phone.png.png') no-repeat center;  
+                    background-size: 460px 100%;
+                    position: relative;
+                }
+
+                .form-text{
+                    font-family: 'Inria Serif', serif;
+                    font-size: 18px;
+                    text-transform: uppercase;
+                    color: #FFFFFF;
+                    position: relative;
+                    bottom: 50px;
+                    right: 15px;         
+                }
+               
+                .form-control{
+                   font-family: 'Inter', sans-serif;
+                   width: 170px;
+                   height: 35px;
+                   font-size: 20px;
+                   color: #AAAAAA;
+                   opacity: 0.5;
+                }
+
+                .form-control-text{
+                   font-family: 'Inter', sans-serif;
+                   width: 360px;
+                   height: 100px;
+                   font-size: 20px;
+                   color: #AAAAAA;
+                   opacity: 0.5;
+                }
+
+                .btn-success{
+                   font-family: 'Inter', sans-serif;
+                   width: 360px;
+                   height: 40px;
+                   font-size: 20px;
+                   color: #FFFEFE;
+                   background: #ED8235;
+                   border: none;
+                   border-radius: 10px;
+                }
+                
+                .footer{
+                    display: flex;
+                    justify-content: space-between;
+                    flex-wrap: wrap;
+                    align-items: center;
+                    width: 100%;
+                    padding-top: 30px;
+                    margin: 0px auto;
+                }
+                .footer-logo{
+                    font-family: 'Inria Serif', serif;
+                    font-size: 26px;
+                    color: #5A5A5A;
+                }
+                
+                .footer-contacts{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 12px;
+                    line-height: 20px;
+                    color: #5A5A5A;
+                    text-transform: uppercase;
+                }
+                
+                .footer-privacy{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 12px;
+                    line-height: 20px;
+                    color: #5A5A5A;
+                    text-transform: uppercase;
+                }
+                
+                .footer-cookies{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 10px;
+                    color: #5A5A5A;
+                
+                }
+                .footer-info{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 10px;
+                    color: #5A5A5A;
+                }
+                
+        }
+
+        /*==============440==============*/
+
+        @media screen and (max-width: 440px) {
+            .header{
+                background: url('./Flario/img/sasha_mobil.png') no-repeat center;
+                width: 100%;
+                height: 100%;
+                margin: 0px auto;
+                }
+ 
+                .navigation{
+                    display: flex;
+                    justify-content: center; 
+                    align-items: center;
+                    flex-wrap: wrap; 
+                    width: 100%;   
+                }
+
+                .navigation-li{
+                    display: flex;
+                    justify-content: space-between;
+                    padding-right: 0px;
+                    font-size: 14px;
+                    text-transform: uppercase;
+                }
+
+                .nav{
+                    display: flex;
+                    justify-content: center;
+                    justify-content: space-between;
+                    padding-left: 45px;
+                    padding-top: 50px;
+                    padding-right: 15px;
+                    width: 100%;
+                }
+                .cards{
+                    display: flex;
+                    justify-content: center;
+                    flex-wrap: wrap;
+                    align-items: center;
+                    gap: 30px;
+                }
+                .text{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 18px;
+                    text-transform: uppercase;
+                    color: #5A5A5A;
+                }
+                
+                .card-text{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 14px;
+                    color: #5A5A5A;
+                    padding-top: 50px;
+                }
+
+                .cards-background{
+                    background: none;
+                }
+
+                .img{
+                    background: none;
+                    margin: 0px;
+                }
+
+                .brands-img{
+                    display: flex;
+                    flex-wrap: wrap;
+                    gap: 15px;
+                    width: 100%;
+                    height: 240px;
+                    padding-left: 112px;
+                    margin: 0px auto;
+                    
+                }
+
+                .card-limba{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    height: 395px;
+                    width: 440px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/limba2.png') no-repeat center;
+                    background-size: cover;
+                }
+
+                .card-jins{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 440px;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/jin2.png') no-repeat center;
+                    background-size: cover;
+                }
+                .card-rclear{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 440px;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/light2.png')no-repeat center;
+                    background-size: cover;
+                }
+                
+                .card-bombini{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 440px;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/bombini2.png')no-repeat center;
+                    background-size: cover;
+                }
+                
+                .card-tashe{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 440px;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/tashe2.png')no-repeat center;
+                    background-size: cover;
+                }
+                .section{
+                    display: flex;
+                    justify-content: center;
+                    width: 440px;
+                    height: 500px;
+                    margin: 0px auto;
+                }
+
+                .limba{
+                    width: 100px;
+                    height: 70px;
+                }
+                
+                .jins{
+                    width: 75px;
+                    height: 47px;
+                }
+                
+                .rclear{
+                    width: 130px;
+                    height: 43px;
+                }
+                
+                .bombini{
+                    width: 130px;
+                    height: 50px;
+                }
+                
+                .tashe{
+                    width: 110px;
+                    height: 50px;
+                }
+                
+                .logo-brands{
+                    display: flex;
+                    width: 100%;
+                    height: 395px;
+                    background-color: #212025;
+                    padding-top: 20px;
+                    padding-left: 0px;
+                }
+
+                .form{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    flex-direction: column;
+                    flex-wrap: wrap;
+                    background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url('./Flario/img/background_phone.png.png') no-repeat center;  
+                    background-size: 440px 100%;
+                    position: relative;
+                }
+
+                .form-text{
+                    font-family: 'Inria Serif', serif;
+                    font-size: 18px;
+                    text-transform: uppercase;
+                    color: #FFFFFF;
+                    position: relative;
+                    bottom: 50px;
+                    right: 15px;         
+                }
+
+                
+                .form-control{
+                   font-family: 'Inter', sans-serif;
+                   width: 170px;
+                   height: 35px;
+                   font-size: 20px;
+                   color: #AAAAAA;
+                   opacity: 0.5;
+                }
+
+                .form-control-text{
+                   font-family: 'Inter', sans-serif;
+                   width: 360px;
+                   height: 100px;
+                   font-size: 20px;
+                   color: #AAAAAA;
+                   opacity: 0.5;
+                }
+
+                .btn-success{
+                   font-family: 'Inter', sans-serif;
+                   width: 360px;
+                   height: 40px;
+                   font-size: 20px;
+                   color: #FFFEFE;
+                   background: #ED8235;
+                   border: none;
+                   border-radius: 10px;
+                }
+                
+                .footer{
+                    display: flex;
+                    justify-content: space-between;
+                    flex-wrap: wrap;
+                    align-items: center;
+                    width: 100%;
+                    padding-top: 30px;
+                    margin: 0px auto;
+                }
+                .footer-logo{
+                    font-family: 'Inria Serif', serif;
+                    font-size: 20px;
+                    color: #5A5A5A;
+                }
+                
+                .footer-contacts{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 10px;
+                    line-height: 10px;
+                    color: #5A5A5A;
+                    text-transform: uppercase;
+                }
+                
+                .footer-privacy{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 10px;
+                    line-height: 10px;
+                    color: #5A5A5A;
+                    text-transform: uppercase;
+                }
+                
+                .footer-cookies{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 10px;
+                    color: #5A5A5A;
+                
+                }
+                .footer-info{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 10px;
+                    color: #5A5A5A;
+                }
+                
+        }
+        /*==============400==============*/
+
+        @media screen and (max-width: 400px) {
+            .header{
+                background: url('./Flario/img/sasha_mobil.png') no-repeat center;
+                width: 100%;
+                height: 100%;
+                margin: 0px auto;
+                }
+ 
+                .navigation{
+                    display: flex;
+                    justify-content: center; 
+                    align-items: center;
+                    flex-wrap: wrap; 
+                    width: 100%;   
+                }
+
+                .navigation-li{
+                    display: flex;
+                    justify-content: space-between;
+                    padding-right: 0px;
+                    font-size: 14px;
+                    text-transform: uppercase;
+                }
+
+                .nav{
+                    display: flex;
+                    justify-content: center;
+                    justify-content: space-between;
+                    padding-left: 45px;
+                    padding-top: 50px;
+                    padding-right: 15px;
+                    width: 100%;
+                }
+                .cards{
+                    display: flex;
+                    justify-content: center;
+                    flex-wrap: wrap;
+                    align-items: center;
+                    gap: 30px;
+                }
+                .text{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 18px;
+                    text-transform: uppercase;
+                    color: #5A5A5A;
+                }
+                
+                .card-text{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 14px;
+                    color: #5A5A5A;
+                    padding-top: 50px;
+                }
+
+                .cards-background{
+                    background: none;
+                }
+
+                .img{
+                    background: none;
+                    margin: 0px;
+                }
+
+                .brands-img{
+                    display: flex;
+                    flex-wrap: wrap;
+                    gap: 15px;
+                    width: 100%;
+                    height: 240px;
+                    padding-left: 112px;
+                    margin: 0px auto;
+                    
+                }
+
+                .card-limba{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    height: 395px;
+                    width: 100%;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/limba2.png') no-repeat center;
+                    background-size: cover;
+                }
+
+                .card-jins{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 100%;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/jin2.png') no-repeat center;
+                    background-size: cover;
+                }
+                .card-rclear{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 100%;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/light2.png')no-repeat center;
+                    background-size: cover;
+                }
+                
+                .card-bombini{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 100%;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/bombini2.png')no-repeat center;
+                    background-size: cover;
+                }
+                
+                .card-tashe{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 100%;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/tashe2.png')no-repeat center;
+                    background-size: cover;
+                }
+                .section{
+                    display: flex;
+                    justify-content: center;
+                    width: 400px;
+                    height: 550px;
+                    margin: 0px auto;
+                }
+
+                .limba{
+                    width: 100px;
+                    height: 70px;
+                }
+                
+                .jins{
+                    width: 75px;
+                    height: 47px;
+                }
+                
+                .rclear{
+                    width: 130px;
+                    height: 43px;
+                }
+                
+                .bombini{
+                    width: 130px;
+                    height: 50px;
+                }
+                
+                .tashe{
+                    width: 110px;
+                    height: 50px;
+                }
+                
+                .logo-brands{
+                    display: flex;
+                    width: 100%;
+                    height: 395px;
+                    background-color: #212025;
+                    padding-top: 20px;
+                    padding-left: 0px;
+                    padding-bottom: 40px;
+                }
+
+                .form{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    flex-direction: column;
+                    flex-wrap: wrap;
+                    background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url('./Flario/img/background_phone.png.png') no-repeat center;  
+                    background-size: 400px 100%;
+                    height: 500px;
+                    position: relative;
+                }
+
+                .form-text{
+                    font-family: 'Inria Serif', serif;
+                    font-size: 18px;
+                    text-transform: uppercase;
+                    color: #FFFFFF;
+                    position: relative;
+                    bottom: 50px;
+                    right: 15px;         
+                }
+
+                
+                .form-control{
+                   font-family: 'Inter', sans-serif;
+                   width: 170px;
+                   height: 35px;
+                   font-size: 20px;
+                   color: #AAAAAA;
+                   opacity: 0.5;
+                }
+
+                .form-control-text{
+                   font-family: 'Inter', sans-serif;
+                   width: 360px;
+                   height: 100px;
+                   font-size: 20px;
+                   color: #AAAAAA;
+                   opacity: 0.5;
+                }
+
+                .btn-success{
+                   font-family: 'Inter', sans-serif;
+                   width: 360px;
+                   height: 40px;
+                   font-size: 20px;
+                   color: #FFFEFE;
+                   background: #ED8235;
+                   border: none;
+                   border-radius: 10px;
+                }
+                
+                .footer{
+                    display: flex;
+                    justify-content: space-between;
+                    flex-wrap: wrap;
+                    align-items: center;
+                    width: 100%;
+                    padding-top: 30px;
+                    margin: 0px auto;
+                }
+                .footer-logo{
+                    font-family: 'Inria Serif', serif;
+                    font-size: 20px;
+                    color: #5A5A5A;
+                }
+                
+                .footer-contacts{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 10px;
+                    line-height: 10px;
+                    color: #5A5A5A;
+                    text-transform: uppercase;
+                }
+                
+                .footer-privacy{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 10px;
+                    line-height: 10px;
+                    color: #5A5A5A;
+                    text-transform: uppercase;
+                }
+                
+                .footer-cookies{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 10px;
+                    color: #5A5A5A;
+                
+                }
+                .footer-info{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 10px;
+                    color: #5A5A5A;
+                }
+        }
+
+        /*==============320==============*/
+
+        @media screen and (max-width: 368px) {
+            .header{
+                background: url('./Flario/img/sasha_mobil.png') no-repeat center;
+                width: 100%;
+                height: 100%;
+                margin: 0px auto;
+                }
+ 
+                .navigation{
+                    display: flex;
+                    justify-content: center; 
+                    align-items: center;
+                    flex-wrap: wrap; 
+                    width: 100%;   
+                }
+
+                .navigation-li{
+                    display: flex;
+                    justify-content: space-between;
+                    padding-right: 0px;
+                    font-size: 14px;
+                    text-transform: uppercase;
+                }
+
+                .nav{
+                    display: flex;
+                    justify-content: center;
+                    justify-content: space-between;
+                    padding-left: 45px;
+                    padding-top: 50px;
+                    padding-right: 15px;
+                    width: 100%;
+                }
+                .cards{
+                    display: flex;
+                    justify-content: center;
+                    flex-wrap: wrap;
+                    align-items: center;
+                    gap: 30px;
+                }
+                .text{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 18px;
+                    text-transform: uppercase;
+                    color: #5A5A5A;
+                }
+                
+                .card-text{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 14px;
+                    color: #5A5A5A;
+                    padding-top: 50px;
+                }
+
+                .cards-background{
+                    background: none;
+                }
+
+                .img{
+                    background: none;
+                    margin: 0px;
+                }
+
+                .brands-img{
+                    display: flex;
+                    flex-wrap: wrap;
+                    gap: 15px;
+                    width: 100%;
+                    height: 240px;
+                    padding-left: 112px;
+                    margin: 0px auto;
+                    
+                }
+
+                .card-limba{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    height: 395px;
+                    width: 100%;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/limba2.png') no-repeat center;
+                    background-size: cover;
+                }
+
+                .card-jins{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 100%;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/jin2.png') no-repeat center;
+                    background-size: cover;
+                }
+                .card-rclear{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 100%;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/light2.png')no-repeat center;
+                    background-size: cover;
+                }
+                
+                .card-bombini{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 100%;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/bombini2.png')no-repeat center;
+                    background-size: cover;
+                }
+                
+                .card-tashe{
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px 30px;
+                    width: 100%;
+                    height: 395px;
+                    background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./Flario/img/tashe2.png')no-repeat center;
+                    background-size: cover;
+                }
+                .section{
+                    display: flex;
+                    justify-content: center;
+                    width: 368px;
+                    height: 650px;
+                    margin: 0px auto;
+                }
+
+                .limba{
+                    width: 90px;
+                    height: 70px;
+                }
+                
+                .jins{
+                    width: 60px;
+                    height: 47px;
+                }
+                
+                .rclear{
+                    width: 100px;
+                    height: 33px;
+                }
+                
+                .bombini{
+                    width: 100px;
+                    height: 50px;
+                }
+                
+                .tashe{
+                    width: 110px;
+                    height: 50px;
+                }
+                
+                .logo-brands{
+                    display: flex;
+                    width: 100%;
+                    height: 495px;
+                    background-color: #212025;
+                    
+                    padding-left: 0px;
+                    
+                }
+
+                .btn-brands{
+                    width: 100px;
+                    height: 41px;
+                    border: none;
+                    border-radius: 20px;
+                    cursor: pointer;
+                    
+                }
+
+                .logo-text{
+                    font-family: 'Inria Serif', serif;
+                    font-size: 20px; 
+                    color: #ADAAAA;
+                    text-transform: uppercase;  
+                    padding-bottom: 10px; 
+                }
+
+                .brands-text{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 12px; 
+                    line-height: 15px;
+                    color: #9D9D9D;
+                    padding-bottom: 10px;
+                }
+
+                .form{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    flex-direction: column;
+                    flex-wrap: wrap;
+                    background-image: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url('./Flario/img/bacground_media.png') no-repeat center;  
+                    width: 368px;
+                    height: 440px;
+                    position: relative;
+                }
+
+                .form-text{
+                    font-family: 'Inria Serif', serif;
+                    font-size: 18px;
+                    text-transform: uppercase;
+                    color: #FFFFFF;
+                    position: relative;
+                    bottom: 50px;
+                    right: 5px;         
+                }
+
+                
+                .form-control{
+                   font-family: 'Inter', sans-serif;
+                   width: 120px;
+                   height: 35px;
+                   font-size: 14px;
+                   color: #AAAAAA;
+                   opacity: 0.5;
+                }
+
+                .form-control-text{
+                   font-family: 'Inter', sans-serif;
+                   width: 260px;
+                   height: 100px;
+                   font-size: 14px;
+                   color: #AAAAAA;
+                   opacity: 0.5;
+                }
+
+                .btn-success{
+                   font-family: 'Inter', sans-serif;
+                   width: 260px;
+                   height: 40px;
+                   font-size: 14px;
+                   color: #FFFEFE;
+                   background: #ED8235;
+                   border: none;
+                   border-radius: 10px;
+                }
+                
+                .footer{
+                    display: flex;
+                    justify-content: space-between;
+                    flex-wrap: wrap;
+                    align-items: center;
+                    width: 100%;
+                    padding-top: 0px;
+                    margin: 0px auto;
+                }
+                .footer-logo{
+                    font-family: 'Inria Serif', serif;
+                    font-size: 20px;
+                    color: #5A5A5A;
+                }
+                
+                .footer-contacts{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 8px;
+                    line-height: 5px;
+                    color: #5A5A5A;
+                    text-transform: uppercase;
+                }
+                
+                .footer-privacy{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 8px;
+                    line-height: 5px;
+                    color: #5A5A5A;
+                    text-transform: uppercase;
+                }
+                
+                .footer-cookies{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 10px;
+                    color: #5A5A5A;
+                
+                }
+                .footer-info{
+                    font-family: 'Inter', sans-serif;
+                    font-size: 10px;
+                    color: #5A5A5A;
+                }
+        }
